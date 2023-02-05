@@ -1,0 +1,15 @@
+Moving Disk from towerA to towerB
+Moving Disk from towerA to towerC
+Moving Disk from towerB to towerC
+Moving Disk from towerA to towerB
+Moving Disk from towerC to towerA
+Moving Disk from towerC to towerB
+Moving Disk from towerA to towerB
+Moving Disk from towerA to towerC
+Moving Disk from towerB to towerC
+Moving Disk from towerB to towerA
+Moving Disk from towerC to towerA
+Moving Disk from towerB to towerC
+Moving Disk from towerA to towerB
+Moving Disk from towerA to towerC
+Moving Disk from towerB to towerC

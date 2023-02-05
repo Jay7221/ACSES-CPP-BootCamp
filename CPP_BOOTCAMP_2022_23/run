@@ -1,0 +1,7 @@
+#! /bin/bash
+
+source .env
+
+g++ -o main $FILE
+./main
+rm main

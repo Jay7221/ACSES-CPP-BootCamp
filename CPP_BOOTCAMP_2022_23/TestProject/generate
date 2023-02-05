@@ -1,0 +1,2 @@
+g++ -o main generator.cpp
+./main > input.txt
